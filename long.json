@@ -1,0 +1,97 @@
+[
+  {
+    "image": "/data/upload/1/bad0bdb5-0e8f8cabb475472b1e64.jpg",
+    "id": 1,
+    "label": [
+      {
+        "x": 54.666666666666664,
+        "y": 25.87268993839836,
+        "width": 25.066666666666666,
+        "height": 6.365503080082136,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ID"
+        ],
+        "original_width": 2310,
+        "original_height": 1499
+      },
+      {
+        "x": 43.6,
+        "y": 34.496919917864474,
+        "width": 51.866666666666674,
+        "height": 8.008213552361395,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Name"
+        ],
+        "original_width": 2310,
+        "original_height": 1499
+      },
+      {
+        "x": 59.2,
+        "y": 51.95071868583162,
+        "width": 31.6,
+        "height": 7.392197125256674,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bdate"
+        ],
+        "original_width": 2310,
+        "original_height": 1499
+      },
+      {
+        "x": 62.666666666666664,
+        "y": 60.78028747433267,
+        "width": 31.333333333333332,
+        "height": 8.829568788501026,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Domicile"
+        ],
+        "original_width": 2310,
+        "original_height": 1499
+      },
+      {
+        "x": 38.13333333333333,
+        "y": 68.58316221765914,
+        "width": 54.93333333333333,
+        "height": 9.034907597535934,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Domicile"
+        ],
+        "original_width": 2310,
+        "original_height": 1499
+      },
+      {
+        "x": 65.06666666666666,
+        "y": 78.43942505133468,
+        "width": 28.933333333333334,
+        "height": 7.80287474332649,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Address"
+        ],
+        "original_width": 2310,
+        "original_height": 1499
+      },
+      {
+        "x": 34.53333333333333,
+        "y": 85.83162217659137,
+        "width": 60.266666666666666,
+        "height": 8.829568788501026,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Address"
+        ],
+        "original_width": 2310,
+        "original_height": 1499
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2022-04-04T09:11:22.138162Z",
+    "updated_at": "2022-04-05T01:45:02.195973Z",
+    "lead_time": 1315.587
+  }
+]

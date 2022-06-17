@@ -1,0 +1,121 @@
+[
+  {
+    "image": "/data/upload/1/f4f4e458-CCCD.jpg",
+    "id": 1,
+    "label": [
+      {
+        "x": 40.557939914163086,
+        "y": 41.45454545454545,
+        "width": 30.901287553648075,
+        "height": 6.181818181818182,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ID"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 30.257510729613735,
+        "y": 56.36363636363635,
+        "width": 34.76394849785407,
+        "height": 5.090909090909091,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Name"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 59.227467811158796,
+        "y": 63.63636363636363,
+        "width": 15.665236051502147,
+        "height": 3.6363636363636362,
+        "rotation": 0,
+        "rectanglelabels": [
+          "BDate"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 47.63948497854077,
+        "y": 67.63636363636364,
+        "width": 7.939914163090127,
+        "height": 5.454545454545454,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Sex"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 83.90557939914163,
+        "y": 66.9090909090909,
+        "width": 10.515021459227468,
+        "height": 6.181818181818182,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Nationality"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 30.257510729613735,
+        "y": 79.63636363636364,
+        "width": 34.76394849785407,
+        "height": 4.7272727272727275,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Place_origin"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 16.094420600858374,
+        "y": 89.0909090909091,
+        "width": 11.158798283261802,
+        "height": 3.6363636363636362,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Date_exprity"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 30.472103004291846,
+        "y": 91.27272727272727,
+        "width": 45.06437768240343,
+        "height": 5.818181818181818,
+        "rotation": 0,
+        "rectanglelabels": [
+          "place2"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      },
+      {
+        "x": 71.45922746781116,
+        "y": 85.81818181818181,
+        "width": 24.892703862660944,
+        "height": 4.7272727272727275,
+        "rotation": 0,
+        "rectanglelabels": [
+          "place1"
+        ],
+        "original_width": 466,
+        "original_height": 275
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2022-06-16T03:11:42.833058Z",
+    "updated_at": "2022-06-16T03:11:44.900023Z",
+    "lead_time": 59.858000000000004
+  }
+]
